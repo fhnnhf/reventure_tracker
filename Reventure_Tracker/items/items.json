@@ -32,9 +32,30 @@
     },
     {
         "name": "Chicken",
-        "type": "toggle",
-        "img": "images/items/Chicken.png",
-        "codes": "chicken, weight, item"
+        "type": "progressive",
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/Chicken1.png",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/Chicken2.png",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/Chicken3.png",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/Chicken4.png",
+                "codes": "chicken, weight, item",
+                "inherit_codes": false
+            }
+        ]
+        
+        
     },
     {
         "name": "Nuke",
@@ -68,8 +89,14 @@
     },
     {
         "name": "Elemental Gems",
-        "type": "toggle",
+        "type": "consumable",
         "img": "images/items/TetraGem.png",
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 12,
         "codes": "tetraGem"
     },
     {
@@ -141,7 +168,7 @@
     {
         "name": "Desert Geyser",
         "type": "toggle",
-        "img": "images/items/Desert.png",
+        "img": "images/items/GeyserDesert.png",
         "codes": "geyserDesert"
     },
     {
@@ -177,56 +204,68 @@
     {
         "name": "Elder",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/Elder.png",
         "codes": "elder"
     },
     {
         "name": "Boulder",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/Boulder.png",
         "codes": "boulder"
     },
     {
         "name": "Sewer Pipe",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/Sewer.png",
         "codes": "sewer"
     },
     {
         "name": "Left Lever",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/LeverLeft.png",
         "codes": "leverLeft"
     },
     {
         "name": "Middle Lever",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/LeverMiddle.png",
         "codes": "leverMiddle"
     },
     {
         "name": "Right Lever",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/LeverRight.png",
         "codes": "leverRight"
     },
     {
         "name": "Waterfall Geyeser",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/GeyserWater.png",
         "codes": "geyserWater"
     },
     {
         "name": "Volcano Geyeser",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/GeyserVolcano.png",
         "codes": "geyserVolcano"
     },
     {
         "name": "Boomerang",
         "type": "toggle",
-        "img": "images/items/Shopkeep.png",
+        "img": "images/items/Boomerang.png",
         "codes": "boomerang"
+    },
+    {
+        "name": "Ending",
+        "type": "consumable",
+        "img": "images/items/Ending.png",
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 12,
+        "codes": "ending"
     }
     
 ]

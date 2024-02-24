@@ -1886,9 +1886,6 @@
             },
             {
                 "name": "Fire Gem",
-                "access_rules": [
-                    "lavaTrinket, shovel"
-                ],
                 "sections": [
                     {
                         "name": "",

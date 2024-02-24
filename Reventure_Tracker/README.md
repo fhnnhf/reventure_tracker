@@ -1,19 +1,11 @@
-# Template Pack for PopTracker
+# Reventure tracker
 
-This a template tracker package for PopTracker.
-
-Includes examples for AP and SNES memory autotracking and beginner-friendly explanations in the pack.
+This poptracker package is meant for manually tracking items for the Reventure ending randomizer and archipelago. Not only does it help keep track of what items you have but it also shows which endings are currently in logic. There is also a manual ending tracker to keep count of how many endings you have if you are running a custom ending seed. Enjoy!
 
 ## Installation
 
 Just download the lastest build or source and put in your packs folder (unpacked).
 
-## More Info
+## Feedback
 
-Check out PopTrackers Documentation on packs [here](https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md)
-
-Still having trouble realizing your pack and looking for help or just want more information about everything PopTracker? Check out the ['Unofficial' PopTracker Discord Server](https://discord.com/invite/gwThqMCPgK)!
-
-## License
-
-Feel free to use this template without credit for all your PopTracker packs!
+Any and all feedback is appreciated. I can be reached at fhnnhf on discord or in the reventure development channel at on the official Archipelago Discord server.
