@@ -1,0 +1,1905 @@
+[
+    {
+        "name": "Example Parent",
+        "children": [
+            {
+                "name": "It's Dangerous to be Near Tim!",
+                "access_rules": [
+                    "sword, elder"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Shit Happens!",
+                "access_rules": [
+                    "pepple"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 2",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Please Nerf This!",
+                "sections": [
+                    {
+                        "name": "Ending 3",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": " Public Enemy!",
+                "access_rules": [
+                    "sword"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 4",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Kingslayer!",
+                "access_rules": [
+                    "sword, king"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 5",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "The Floor is Lava!",
+                "sections": [
+                    {
+                        "name": "Ending 6",
+                        "item_count": 1                      
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Go Swimming!",
+                "sections": [
+                    {
+                        "name": "Ending 7",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Roll & Rock!",
+                "sections": [
+                    {
+                        "name": "Ending 8",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Customer is Always Right!",
+                "access_rules": [
+                    "sword, shopkeep"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 9",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Gold Rush!",
+                "access_rules": [
+                    "shovel"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 10",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Feline Company!",
+                "access_rules": [
+                    "mrHugs"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 11",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Hobbies!",
+                "access_rules": [
+                    "fishingrod"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 12",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Allergic to Cuteness!",
+                "access_rules": [
+                    "mrHugs"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 13",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Dracar-ish!",
+                "access_rules": [
+                    "dragon"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 14",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Family Gathering!",
+                "sections": [
+                    {
+                        "name": "Ending 15",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Monster Hunter!",
+                "access_rules": [
+                    "sword, dragon"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 16",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Public Transport Next Time!",
+                "access_rules": [
+                    "cannonS", "cannonC", "cannonD"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 17",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "King of Hearts!",
+                "access_rules": [
+                    "mrHugs, king"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 18",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Broken Heart!",
+                "access_rules": [
+                    "mrHugs"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 19",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Day Off!",
+                "sections": [
+                    {
+                        "name": "Ending 20",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "You Nailed It!",
+                "sections": [
+                    {
+                        "name": "Ending 21",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Paperweight!",
+                "access_rules": [
+                    "anvil"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 22",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "True Beauty is Inside!",
+                "access_rules": [
+                    "mimic"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 23",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Strawberry!",
+                "access_rules": [
+                    "strawberry"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 24",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Bully!",
+                "access_rules": [
+                    "sword"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 25",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Greedy Bastard!",
+                "access_rules": [
+                    "$has_atleast_n_weight|5"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 26",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Airstrike!",
+                "access_rules": [
+                    "$has_nuke, cannonS"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 27",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "Don't Try This at Home!",
+                "access_rules": [
+                    "bombs"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 28",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "The Man in the Steel Mask!",
+                "access_rules": [
+                    "shield, dragon"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 29",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Subliminal Message!",
+                "sections": [
+                    {
+                        "name": "Ending 30",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Collateral Damage!",
+                "access_rules": [
+                    "sword"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 31",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "You Monster!",
+                "access_rules": [
+                    "sword, boulder"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 32",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Leap of Faith!",
+                "sections": [
+                    {
+                        "name": "Ending 33",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "-1st Floor!",
+                "access_rules": [
+                    "button"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 34",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Wastewater!",
+                "access_rules": [
+                    "sewer"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 35",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Fireproof!",
+                "access_rules": [
+                    "dragon, lavaTrinket"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 36",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Free Hugs!",
+                "access_rules": [
+                    "shopkeep, mrHugs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 37",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 178,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Oh Boy, I'm so Hungry!",
+                "access_rules": [
+                    "leverLeft"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 38",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Everything is Terrible!",
+                "sections": [
+                    {
+                        "name": "Ending 39",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Sexy Beard!",
+                "access_rules": [
+                    "mrHugs, elder"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 40",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Post-Traumatic Stress Disorder!",
+                "access_rules": [
+                    "dragon, shield, lavaTrinket"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 41",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Sneaky Bastard!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 42",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Dinner for Two!",
+                "access_rules": [
+                    "dragon, mrHugs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 43",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Bad Leverage!",
+                "access_rules": [
+                    "leverRight"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 44",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Well Excuuuuse Me, Princess!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 45",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Extreme Sports!",
+                "sections": [
+                    {
+                        "name": "Ending 46",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Harakiri!",
+                "access_rules": [
+                    "sword"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 47",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "It's My First Day!",
+                "sections": [
+                    {
+                        "name": "Ending 48",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Victory Royale!",
+                "access_rules": [
+                    "sword"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 49",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "P0wned!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 50",
+                        "item_count": 1                      
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Politics!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 51",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "I'm Feeling Lucky!",
+                "access_rules": [
+                    "princess, cannonD"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 52",
+                        "item_count": 1                      
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Videogames!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 53",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Paraphilia!",
+                "access_rules": [
+                    "mrHugs, boulder"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 54",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Escape Shortcut!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 55",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Refund Request!",
+                "access_rules": [
+                    "$has_nuke, cannonC"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 56",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Friendzoned!",
+                "access_rules": [
+                    "princess, mrHugs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 57",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Dark Extreme Sports!",
+                "sections": [
+                    {
+                        "name": "Ending 58",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Away From Kingdom!",
+                "sections": [
+                    {
+                        "name": "Ending 59",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Viva la Resistance!",
+                "access_rules": [
+                    "bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 60",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Syndicalism!",
+                "sections": [
+                    {
+                        "name": "Ending 61",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "Jackpot!",
+                "access_rules": [
+                    "shovel, sword",
+                    "shovel, hook",
+                    "shovel, geyserWater"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 62",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "You Don't Mess With Chicken!",
+                "access_rules": [
+                    "sword, chicken"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 63",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "I Thought It Was A Mimic!",
+                "access_rules": [
+                    "sword, $princess_with_items"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 64",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Overheal!",
+                "sections": [
+                    {
+                        "name": "Ending 65",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Finite War!",
+                "access_rules": [
+                    "$has_darkstone"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 66",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Stay Determined!",
+                "sections": [
+                    {
+                        "name": "Ending 67",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Otaku Fever!",
+                "sections": [
+                    {
+                        "name": "Ending 68",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Quick and Dirty!",
+                "access_rules": [
+                    "sword, $princess_with_items"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 69",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "It's a Trap!",
+                "sections": [
+                    {
+                        "name": "Ending 70",
+                        "item_count": 1                      
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Sustainable Development!",
+                "access_rules": [
+                    "$has_atleast_n_items|6"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 71",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Ecologist!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 72",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Dark Love!",
+                "access_rules": [
+                    "princess, mrHugs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 73",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Bittersweet Revenge!",
+                "access_rules": [
+                    "sword, shopkeep, mimic, button, cannonS"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 74",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Please, Not Again!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 75",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "A Waifu is You!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 76",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Battle Royale!",
+                "access_rules": [
+                    "vine",
+                    "chicken, sword",
+                    "chicken, hook",
+                    "chicken, geyserWater"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 77",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Silver or Lead!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 78",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Good Ending!",
+                "access_rules": [
+                    "chicken, mrHugs"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 79",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Chicken of Doom!",
+                "access_rules": [
+                    "chicken"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 80",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Forever Together!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 81",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 495
+                    }
+                ]
+            },
+            {
+                "name": "Perfect Crime!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 82",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "We Have to Go Back, Tim!",
+                "access_rules": [
+                    "whistle"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 83",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Not What You Expected!",
+                "access_rules": [
+                    "$has_nuke, cannonD"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 84",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Hey, Listen!",
+                "access_rules": [
+                    "sword",
+                    "mrHugs",
+                    "boomerang, hook",
+                    "boomerang, chicken"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 85",
+                        "item_count": 1                      
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Full House!",
+                "access_rules": [
+                    "sword, $princess_with_items"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 86",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Crunch Hell!",
+                "access_rules": [
+                    "sword, princess, hook",
+                    "sword, princess, shovel, chicken, button",
+                    "sword, princess, shovel, chicken, $princess_with_items"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 87",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Tim's Odyssey!",
+                "access_rules": [
+                    "$has_atleast_n_weight|4, geyserDesert, hook"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 88",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Intestinal Parasites!",
+                "access_rules": [
+                    "shovel, princess",
+                    "shovel, lavaTrinket"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 89",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Try Harder!",
+                "access_rules": [
+                    "shield, princess, $princess_with_items"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 90",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Jump Around!",
+                "access_rules": [
+                    "$has_atleast_n_weight|4, hook"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 91",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 176,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "First date!",
+                "access_rules": [
+                    "dragon, princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 92",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 218,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Dark Delivery boy!",
+                "access_rules": [
+                    "$princess_with_items, $has_darkstone"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 93",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 260,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Influencers!",
+                "access_rules": [
+                    "princess"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 94",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 303,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Hypothermia!",
+                "sections": [
+                    {
+                        "name": "Ending 95",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 345,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Pirates!",
+                "sections": [
+                    {
+                        "name": "Ending 96",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 386,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Swimming Into the Sunset!",
+                "sections": [
+                    {
+                        "name": "Ending 97",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 429,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Suspension Points!",
+                "access_rules": [
+                    "$has_burger, mimic, $princess_with_items",
+                    "$has_burger, mimic, hook",
+                    "$has_burger, mimic, button"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 98",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 471,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Delivery Boy!",
+                "access_rules": [
+                    "$has_burger, king"
+                ],
+                "sections": [
+                    {
+                        "name": "Ending 99",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 513,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "Wind Gem",
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 349,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Earth Gem",
+                "access_rules": [
+                    "$has_atleast_n_weight|4, shovel"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 324,
+                        "y": 74
+                    }
+                ]
+            },
+            {
+                "name": "Water Gem",
+                "access_rules": [
+                    "shovel", "chicken"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 375,
+                        "y": 74
+                    }
+                ]
+            },
+            {
+                "name": "Fire Gem",
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 349,
+                        "y": 42
+                    }
+                ]
+            }
+        ]
+    }
+]
