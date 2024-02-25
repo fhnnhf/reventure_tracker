@@ -1,6 +1,6 @@
 [
     {
-        "name": "Example Parent",
+        "name": "Endings",
         "children": [
             {
                 "name": "It's Dangerous to be Near Tim!",
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "name": " Public Enemy!",
+                "name": "Public Enemy!",
                 "access_rules": [
                     "sword"                    
                 ],
@@ -605,7 +605,7 @@
             {
                 "name": "-1st Floor!",
                 "access_rules": [
-                    "button"                    
+                    "button", "callButton"                    
                 ],
                 "sections": [
                     {
@@ -1630,7 +1630,7 @@
             {
                 "name": "Intestinal Parasites!",
                 "access_rules": [
-                    "shovel, princess",
+                    "princess",
                     "shovel, lavaTrinket"
                 ],
                 "sections": [

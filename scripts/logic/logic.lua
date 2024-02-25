@@ -82,7 +82,7 @@ function has_darkstone()
 end
 
 function princess_portal_with_items()
-    local portal = Tracker:ProviderCountForCode('portal')
+    local portal = Tracker:ProviderCountForCode('portalM')
     local vine = Tracker:ProviderCountForCode('vine')
     local chicken = Tracker:ProviderCountForCode('chicken')
     local sword = Tracker:ProviderCountForCode('sword')

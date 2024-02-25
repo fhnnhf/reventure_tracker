@@ -38,19 +38,22 @@
         "stages": [
             {
                 "img": "images/items/Chicken1.png",
+                "codes": "progressiveChicken",
                 "inherit_codes": false
             },
             {
                 "img": "images/items/Chicken2.png",
+                "codes": "progressiveChicken",
                 "inherit_codes": false
             },
             {
                 "img": "images/items/Chicken3.png",
+                "codes": "progressiveChicken",
                 "inherit_codes": false
             },
             {
                 "img": "images/items/Chicken4.png",
-                "codes": "chicken, weight, item",
+                "codes": "progressiveChicken, chicken, weight, item",
                 "inherit_codes": false
             }
         ]
@@ -106,10 +109,16 @@
         "codes": "button"
     },
     {
+        "name": "Elevator Call Buttons",
+        "type": "toggle",
+        "img": "images/items/Button.png",
+        "codes": "callButton"
+    },
+    {
         "name": "Mirror Portal",
         "type": "toggle",
         "img": "images/items/Portal.png",
-        "codes": "portal"
+        "codes": "portalM"
     },
     {
         "name": "Vine",
