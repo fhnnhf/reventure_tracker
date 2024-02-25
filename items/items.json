@@ -82,13 +82,13 @@
         "name": "Burger",
         "type": "toggle",
         "img": "images/items/Burger.png",
-        "codes": "burger, item, weight"
+        "codes": "burger"
     },
     {
         "name": "Dark Stone",
         "type": "toggle",
         "img": "images/items/Darkstone.png",
-        "codes": "darkstone, item, weight"
+        "codes": "darkstone"
     },
     {
         "name": "Elemental Gems",

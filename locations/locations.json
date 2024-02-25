@@ -459,7 +459,7 @@
             {
                 "name": "Greedy Bastard!",
                 "access_rules": [
-                    "$has_atleast_n_weight|5"                    
+                    "$has_atleast_n_weight_with_burger|5"                    
                 ],
                 "sections": [
                     {

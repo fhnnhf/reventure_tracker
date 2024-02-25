@@ -25,12 +25,49 @@ function has_nuke()
     return 0
 end
 
+function has_atleast_n_weight_with_burger(n)
+    local count = Tracker:ProviderCountForCode('weight')
+    local nuke = Tracker:ProviderCountForCode('nuke')
+    if (nuke == 1) then
+        local hook = Tracker:ProviderCountForCode('hook')
+        if (hook == 1) then
+            count = count + 1
+        end
+    end
+    local darkstone = Tracker:ProviderCountForCode('darkstone')
+    if (darkstone == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
+        if (leverMiddle == 1) then
+            count = count + 1
+        end
+    end
+    local burger = Tracker:ProviderCountForCode('burger')
+    if (burger == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
+        if (leverMiddle == 1) then
+            count = count + 1
+        end
+    end
+    local val = (count >= tonumber(n))
+    if val then
+        return 1 -- 1 => access is in logic
+    end
+    return 0 -- 0 => no access
+end
+
 function has_atleast_n_weight(n)
     local count = Tracker:ProviderCountForCode('weight')
     local nuke = Tracker:ProviderCountForCode('nuke')
     if (nuke == 1) then
         local hook = Tracker:ProviderCountForCode('hook')
         if (hook == 1) then
+            count = count + 1
+        end
+    end
+    local darkstone = Tracker:ProviderCountForCode('darkstone')
+    if (darkstone == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
+        if (leverMiddle == 1) then
             count = count + 1
         end
     end
@@ -50,6 +87,20 @@ function has_atleast_n_items(n)
             count = count + 1
         end
     end
+    local darkstone = Tracker:ProviderCountForCode('darkstone')
+    if (darkstone == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
+        if (leverMiddle == 1) then
+            count = count + 1
+        end
+    end
+    local burger = Tracker:ProviderCountForCode('burger')
+    if (burger == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
+        if (leverMiddle == 1) then
+            count = count + 1
+        end
+    end
     local val = (count >= tonumber(n))
     if val then
         return 1 -- 1 => access is in logic
@@ -61,8 +112,8 @@ end
 
 function has_burger()
     local burger = Tracker:ProviderCountForCode('burger')
-    local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
     if (burger == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
         if (leverMiddle == 1) then
             return 1
         end
@@ -72,8 +123,8 @@ end
 
 function has_darkstone()
     local darkstone = Tracker:ProviderCountForCode('darkstone')
-    local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
     if (darkstone == 1) then
+        local leverMiddle = Tracker:ProviderCountForCode('leverMiddle')
         if (leverMiddle == 1) then
             return 1
         end
