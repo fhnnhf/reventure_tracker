@@ -1631,7 +1631,7 @@
                 "name": "Intestinal Parasites!",
                 "access_rules": [
                     "princess",
-                    "shovel, lavaTrinket"
+                    "shovel, [lavaTrinket]"
                 ],
                 "sections": [
                     {
