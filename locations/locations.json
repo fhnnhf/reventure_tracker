@@ -864,6 +864,9 @@
             },
             {
                 "name": "It's My First Day!",
+                "access_rules": [
+                    "[chicken]","[hook]"
+                ],
                 "sections": [
                     {
                         "name": "Ending 48",
