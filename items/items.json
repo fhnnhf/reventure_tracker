@@ -4,7 +4,7 @@
         "name": "Sword",
         "type": "toggle",
         "img": "images/items/Sword.png",
-        "codes": "sword, weight, item"
+        "codes": "sword, weight, item, castleGate"
     },
     {
         "name": "Shield",
@@ -28,7 +28,7 @@
         "name": "Shovel",
         "type": "toggle",
         "img": "images/items/Shovel.png",
-        "codes": "shovel, weight, item"
+        "codes": "shovel, weight, item, castleGate"
     },
     {
         "name": "Chicken",
@@ -117,8 +117,14 @@
     {
         "name": "Mirror Portal",
         "type": "toggle",
-        "img": "images/items/Portal.png",
-        "codes": "portalM"
+        "img": "images/items/PortalMirror.png",
+        "codes": "portalMirror"
+    },
+    {
+        "name": "Fairy Portal",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "portalFairy"
     },
     {
         "name": "Vine",
@@ -142,7 +148,7 @@
         "name": "Shop Cannon",
         "type": "toggle",
         "img": "images/items/CannonS.png",
-        "codes": "cannonS"
+        "codes": "cannonS, castleGate"
     },
     {
         "name": "Face-plant Stone",
@@ -256,13 +262,43 @@
         "name": "Volcano Geyeser",
         "type": "toggle",
         "img": "images/items/GeyserVolcano.png",
-        "codes": "geyserVolcano"
+        "codes": "geyserVolcano, castleGate"
     },
     {
         "name": "Boomerang",
         "type": "toggle",
         "img": "images/items/Boomerang.png",
         "codes": "boomerang"
+    },
+    {
+        "name": "Statue",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "statue"
+    },
+    {
+        "name": "Battle Bus",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "bus"
+    },
+    {
+        "name": "Fishing Bridge",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "fishingBridge, item"
+    },
+    {
+        "name": "Map",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "map"
+    },
+    {
+        "name": "Compass",
+        "type": "toggle",
+        "img": "images/items/Shopkeep.png",
+        "codes": "compass"
     },
     {
         "name": "Ending",

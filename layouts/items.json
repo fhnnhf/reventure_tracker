@@ -47,7 +47,7 @@
                                 "sewer"
                             ],
                             [
-                                "portalM",
+                                "portalMirror",
                                 "vine",
                                 "",
                                 "button",
@@ -60,7 +60,14 @@
                                 "geyserDesert",
                                 "cannonC",
                                 "cannonD",
-                                "cannonS"
+                                "cannonS",
+                                "",
+                                "portalFairy",
+                                "statue",
+                                "bus",
+                                "fishingBridge",
+                                "map",
+                                "compass"
                             ]
                         ]
                     }

@@ -865,7 +865,7 @@
             {
                 "name": "It's My First Day!",
                 "access_rules": [
-                    "[chicken]","[hook]"
+                    "[$leave_castle_with_with_items, chicken]","[hook]"
                 ],
                 "sections": [
                     {
@@ -884,7 +884,7 @@
             {
                 "name": "Victory Royale!",
                 "access_rules": [
-                    "sword"
+                    "sword, [shield]"
                 ],
                 "sections": [
                     {
@@ -1017,7 +1017,7 @@
             {
                 "name": "Refund Request!",
                 "access_rules": [
-                    "$has_nuke, cannonC"
+                    "$has_nuke, cannonC, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
@@ -1283,7 +1283,12 @@
             {
                 "name": "Sustainable Development!",
                 "access_rules": [
-                    "$has_atleast_n_items|6"
+                    "$has_atleast_n_items|6, shovel, geyserWater",
+                    "$has_atleast_n_items|6, sword",
+                    "$has_atleast_n_items|6, bombs, castleFloor",
+                    "$has_atleast_n_items|6, bombs, geyserVolcano",
+                    "$has_atleast_n_items|6, bombs, portalFairy",
+                    "$has_atleast_n_items|6, bombs, cannonS"
                 ],
                 "sections": [
                     {
@@ -1400,7 +1405,7 @@
                     "vine",
                     "chicken, sword",
                     "chicken, hook",
-                    "chicken, geyserWater"
+                    "chicken, geyserWater, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
@@ -1457,7 +1462,7 @@
             {
                 "name": "Chicken of Doom!",
                 "access_rules": [
-                    "chicken"
+                    "chicken, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
@@ -1533,7 +1538,7 @@
             {
                 "name": "Not What You Expected!",
                 "access_rules": [
-                    "$has_nuke, cannonD"
+                    "$has_nuke, cannonD, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
@@ -1555,7 +1560,7 @@
                     "sword",
                     "mrHugs",
                     "boomerang, hook",
-                    "boomerang, chicken"
+                    "boomerang, chicken, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
@@ -1653,7 +1658,7 @@
             {
                 "name": "Try Harder!",
                 "access_rules": [
-                    "shield, princess, $princess_with_items"
+                    "shield, princess, $princess_with_items, $leave_castle_with_with_items"
                 ],
                 "sections": [
                     {
