@@ -292,13 +292,13 @@
         "name": "Map",
         "type": "toggle",
         "img": "images/items/Shopkeep.png",
-        "codes": "map"
+        "codes": "map, item"
     },
     {
         "name": "Compass",
         "type": "toggle",
         "img": "images/items/Shopkeep.png",
-        "codes": "compass"
+        "codes": "compass, item"
     },
     {
         "name": "Ending",
