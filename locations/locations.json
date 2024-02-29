@@ -865,7 +865,7 @@
             {
                 "name": "It's My First Day!",
                 "access_rules": [
-                    "[$leave_castle_with_with_items, chicken]","[hook]"
+                    "$leave_castle_with_items, chicken","[hook]"
                 ],
                 "sections": [
                     {
@@ -1017,7 +1017,7 @@
             {
                 "name": "Refund Request!",
                 "access_rules": [
-                    "$has_nuke, cannonC, $leave_castle_with_with_items"
+                    "$has_nuke, cannonC, $leave_castle_with_items_no_cannon"
                 ],
                 "sections": [
                     {
@@ -1404,8 +1404,8 @@
                 "access_rules": [
                     "vine",
                     "chicken, sword",
-                    "chicken, hook",
-                    "chicken, geyserWater, $leave_castle_with_with_items"
+                    "chicken, hook, fishingBridge",
+                    "chicken, geyserWater, $leave_castle_with_items"
                 ],
                 "sections": [
                     {
@@ -1462,7 +1462,7 @@
             {
                 "name": "Chicken of Doom!",
                 "access_rules": [
-                    "chicken, $leave_castle_with_with_items"
+                    "chicken, $leave_castle_with_items"
                 ],
                 "sections": [
                     {
@@ -1538,7 +1538,7 @@
             {
                 "name": "Not What You Expected!",
                 "access_rules": [
-                    "$has_nuke, cannonD, $leave_castle_with_with_items"
+                    "$has_nuke, cannonD, $leave_castle_with_items_no_cannon"
                 ],
                 "sections": [
                     {
@@ -1560,7 +1560,7 @@
                     "sword",
                     "mrHugs",
                     "boomerang, hook",
-                    "boomerang, chicken, $leave_castle_with_with_items"
+                    "boomerang, chicken, $leave_castle_with_items"
                 ],
                 "sections": [
                     {
@@ -1658,7 +1658,7 @@
             {
                 "name": "Try Harder!",
                 "access_rules": [
-                    "shield, princess, $princess_with_items, $leave_castle_with_with_items"
+                    "shield, princess, $princess_with_items, $leave_castle_with_items"
                 ],
                 "sections": [
                     {
@@ -1857,7 +1857,7 @@
             {
                 "name": "Earth Gem",
                 "access_rules": [
-                    "$has_atleast_n_weight|4, shovel"
+                    "$has_atleast_n_weight|4, hook, shovel"
                 ],
                 "sections": [
                     {
@@ -1876,7 +1876,7 @@
             {
                 "name": "Water Gem",
                 "access_rules": [
-                    "shovel", "chicken"
+                    "shovel", "chicken, $leave_castle_with_items"
                 ],
                 "sections": [
                     {

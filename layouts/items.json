@@ -1,78 +1,65 @@
 {
     "shared_item_grid": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
-        "content": [
-            {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "10, 10",
-                        "h_alignment": "left",
-                        "rows": [
-                            [
-                                "sword",
-                                "shield",
-                                "hook",
-                                "shovel",
-                                "chicken",
-                                "bombs",
-                                "mrHugs",
-                                "nuke",
-                                "lavaTrinket",
-                                "burger",
-                                "darkstone",
-                                "boomerang",
-                                "tetraGem",
-                                "ending"
-                            ],
-                            [
-                                "elder",
-                                "princess",
-                                "king",
-                                "mimic",
-                                "dragon",
-                                "shopkeep",
-                                "boulder",
-                                "",
-                                "fishingrod",
-                                "whistle",
-                                "anvil",
-                                "strawberry",
-                                "pepple",
-                                "sewer"
-                            ],
-                            [
-                                "portalMirror",
-                                "vine",
-                                "",
-                                "button",
-                                "leverLeft",
-                                "leverMiddle",
-                                "leverRight",
-                                "",
-                                "geyserVolcano",
-                                "geyserWater",
-                                "geyserDesert",
-                                "cannonC",
-                                "cannonD",
-                                "cannonS",
-                                "",
-                                "portalFairy",
-                                "statue",
-                                "bus",
-                                "fishingBridge",
-                                "map",
-                                "compass"
-                            ]
-                        ]
-                    }
-                ]
-            }
+        "type": "itemgrid",
+        "item_margin": "10, 5",
+        "h_alignment": "center",
+        "item_h_alignment": "center",
+        "rows": [
+            [
+                "sword",
+                "shield",
+                "hook",
+                "shovel",
+                "chicken",
+                "whistle",
+                "bombs",
+                "mrHugs",
+                "boomerang"
+            ],
+            [
+                "lavaTrinket",
+                "burger",
+                "darkstone",
+                "nuke",
+                "fishingrod",
+                "strawberry",
+                "anvil",
+                "map",
+                "compass"
+            ],
+            [
+                "elder",
+                "princess",
+                "king",
+                "mimic",
+                "dragon",
+                "shopkeep",
+                "boulder",
+                "pepple",
+                "sewer"
+            ],
+            [
+                "portalMirror",
+                "portalFairy",
+                "button",
+                "cannonC",
+                "cannonD",
+                "cannonS",
+                "geyserVolcano",
+                "geyserWater",
+                "geyserDesert"
+            ],
+            [
+                "leverLeft",
+                "leverMiddle",
+                "leverRight",
+                "bus",
+                "statue",
+                "vine",
+                "fishingBridge",
+                "ending",
+                "tetraGem"
+            ]
         ]
     }
 }

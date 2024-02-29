@@ -124,7 +124,7 @@
         "name": "Fairy Portal",
         "type": "toggle",
         "img": "images/items/Shopkeep.png",
-        "codes": "portalFairy"
+        "codes": "portalFairy, castleGate"
     },
     {
         "name": "Vine",
@@ -148,7 +148,7 @@
         "name": "Shop Cannon",
         "type": "toggle",
         "img": "images/items/CannonS.png",
-        "codes": "cannonS, castleGate"
+        "codes": "cannonS"
     },
     {
         "name": "Face-plant Stone",
@@ -160,7 +160,7 @@
         "name": "Fishing Rod",
         "type": "toggle",
         "img": "images/items/Fishingrod.png",
-        "codes": "fishingrod, item"
+        "codes": "fishingrod"
     },
     {
         "name": "Strawberry",
@@ -286,7 +286,7 @@
         "name": "Fishing Bridge",
         "type": "toggle",
         "img": "images/items/Shopkeep.png",
-        "codes": "fishingBridge, item"
+        "codes": "fishingBridge"
     },
     {
         "name": "Map",

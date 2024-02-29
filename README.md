@@ -8,4 +8,4 @@ Just download the lastest build or source and put in your packs folder (unpacked
 
 ## Feedback
 
-Any and all feedback is appreciated. I can be reached at fhnnhf on discord or in the reventure development channel at on the official Archipelago Discord server.
+Any and all feedback is appreciated. I can be reached at fhnnhf on discord or in the Reventure development channel on the official Archipelago Discord server.
